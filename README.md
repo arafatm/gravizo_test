@@ -30,7 +30,8 @@ Indirect way
 
 ![Alt text](http://www.gravizo.com/img/1x1.png#
 
-thiisthemark        @startuml
+thiisthemark
+@startuml
 object Objectxx
 object Object02
 object Object03
@@ -45,6 +46,7 @@ Object03 *-- Object04
 Object05 o-- "4" Object06
 Object07 .. Object08 : some labels
 @enduml
-thiisthemark  
+thiisthemark
+)
 
 
