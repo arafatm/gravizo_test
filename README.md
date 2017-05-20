@@ -27,10 +27,11 @@ test embedding graphviz in github readme based on
 Indirect way
 
 ![Alt text](https://g.gravizo.com/source/svg/thiisthemark?http%3A%2F%2Fwww.gravizo.com)
+
 ![Alt text](http://www.gravizo.com/img/1x1.png#
 
 thiisthemark        @startuml
-object Object01
+object Objectxx
 object Object02
 object Object03
 object Object04
